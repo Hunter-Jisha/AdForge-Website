@@ -8,6 +8,7 @@ trigger:
     - main
   event:
     - push
+    - custom
 
 steps:
   - name: install
@@ -35,6 +36,6 @@ volumes:
       path: /var/shared/website
 ---
 kind: signature
-hmac: 0599bacec85e4312237fb9fd4d5a0764f1246d89e1812f1b732b1c8a49ee88d3
+hmac: 25dd5062c4fbd591262c81de64a8fa5569ed1349e73ce7a5e1d144364a3c7f63
 
 ...
