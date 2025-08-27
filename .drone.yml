@@ -1,0 +1,28 @@
+kind: pipeline
+type: docker
+name: adforge
+
+steps:
+  - name: install
+    image: node:18
+    commands:
+      - npm ci
+
+  - name: build
+    image: node:18
+    commands:
+      - npm run build
+
+  - name: deploy
+    image: alpine
+    volumes:
+      - name: shared
+        path: /var/shared/adforge
+    commands:
+      - rm -rf /var/shared/website/*
+      - cp -r build/* /var/shared/website/
+
+volumes:
+  - name: shared
+    host:
+      path: /var/shared/website
