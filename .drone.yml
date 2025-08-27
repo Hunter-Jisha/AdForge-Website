@@ -36,6 +36,6 @@ volumes:
       path: /var/shared/website
 ---
 kind: signature
-hmac: 25dd5062c4fbd591262c81de64a8fa5569ed1349e73ce7a5e1d144364a3c7f63
+hmac: 28a70510c61760ff076a1fb6f311aa082e4655342ffda54ff258a5e895470bfb
 
 ...
