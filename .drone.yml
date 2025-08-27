@@ -33,3 +33,8 @@ volumes:
   - name: shared
     host:
       path: /var/shared/website
+---
+kind: signature
+hmac: 0599bacec85e4312237fb9fd4d5a0764f1246d89e1812f1b732b1c8a49ee88d3
+
+...
