@@ -24,7 +24,7 @@
         <p class="text-xl">OUR SERVICES</p>
         <p class="font-fancy text-5xl md:text-8xl">From Hands-Free <br> To White-Glove  </p>
         <p class="text-xl md:text-2xl md:w-2/3">
-            From just putting your social media on autopilot <br>to having videographers on-site - we do it all.
+            We build brand loyalty through personalized customer experiences. Social Media growth is a natural side-effect.
         </p>
 
         <button on:click={() => document.getElementById("services")?.scrollIntoView({ behavior: "smooth" })} 
@@ -42,9 +42,11 @@
                 <Signal/>
             </div>
             <div class="w-full flex flex-col gap-4">
-                <p class="font-fancy text-5xl text-white ml-auto">Onboarding Package</p>
-                <p class="text-xl md:text-3xl text-gray-400">
-                    Set your business up for success with our Onboarding Package. This fulfills all the prerequisites of growing your online presence.
+                <p class="font-fancy text-5xl text-white">Onboarding Package</p>
+                <p class="text-xl md:text-3xl text-gray-400 center-text">
+                    Branding | Web Design | Logos | Analysis
+                </p> 
+                <p class="text-xl md:text-3xl text-gray-400"></p>    
                     <li>Full Static Website Redesign</li>
                     <li>Branding Consultation</li>
                     <li>Logo Redesign</li>
@@ -64,9 +66,11 @@
                 <Instagram/>
             </div>
             <div class="w-full flex flex-col gap-4">
-                <p class="font-fancy text-5xl text-white">Bronze Package</p>
-                <p class="text-xl md:text-3xl text-gray-400">
+                <p class="font-fancy text-5xl text-white ml-auto">Bronze Package</p>
+                <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Social Media Autopilot | Review Management | Web Hosting 
+                </p>
+                <p class="text-xl md:text-3xl text-gray-400">
                     <li>Regular, static social media posts</li>
                     <li>SEO Optimization</li>
                     <li>Website Hosting</li>
@@ -82,9 +86,11 @@
                 <Globe/>
             </div>
             <div class="w-full flex flex-col gap-4">
-                <p class="font-fancy text-5xl text-white ml-auto">Silver Package</p>
-                <p class="text-xl md:text-3xl text-gray-400">
+                <p class="font-fancy text-5xl text-white">Silver Package</p>
+                <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Email | A/B Testing | Analytics | Photography
+                </p>
+                <p class="text-xl md:text-3xl text-gray-400">
                     <li>All perks of Bronze package</li>
                     <li>Personalized Analytics</li>
                     <li>Monthly Photography Session</li>
@@ -102,8 +108,10 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white ml-auto">Gold Package</p>
-                <p class="text-xl md:text-3xl text-gray-400">
+                <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Personalized Storytelling | On-Site Partners | Engagement Growth
+                </p>
+                <p class="text-xl md:text-3xl text-gray-400">
                     <li>All perks of Silver package</li>
                     <li>Photographer/Videographer On-Site Weekly</li>
                     <li>Personalized Storytelling</li>
@@ -119,7 +127,7 @@
                 <Robot/>
             </div>
             <div class="w-full flex flex-col gap-4">
-                <p class="font-fancy text-5xl text-white ml-auto">A La Carte</p>
+                <p class="font-fancy text-5xl text-white">A La Carte</p>
                 <p class="text-xl md:text-3xl text-gray-400">
                     <li>Analytics / Reports</li>
                     <li>Photo Shoots</li>
