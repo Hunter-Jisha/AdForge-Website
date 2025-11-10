@@ -56,13 +56,13 @@
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
             <Instagram class="w-16 h-16 bg-blue-400 p-4"/>
             <p class="font-fancy text-4xl">Social Media <br> Management</p>
-            <p class="">Establish your brand's online presence with content tailored to your audience</p>
+            <p class="">Establish your brand on socials with content tailored to your audience</p>
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
             <Globe class="w-16 h-16 bg-white text-gray-500 p-4"/>
-            <p class="font-fancy text-4xl">Internet <br> Presence</p>
-            <p class="">Grow your online presence with a professional website and cohesive branding</p>
+            <p class="font-fancy text-4xl">Online <br> Presence</p>
+            <p class="">Grow your digital footprint with a professional website and cohesive branding</p>
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
