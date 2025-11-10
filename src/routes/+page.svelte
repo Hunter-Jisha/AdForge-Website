@@ -62,7 +62,7 @@
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
             <Globe class="w-16 h-16 bg-white text-gray-500 p-4"/>
             <p class="font-fancy text-4xl">Internet <br> Presence</p>
-            <p class="">Grow your digital footprint with a professional website, effective SEO, and cohesive branding</p>
+            <p class="">Grow your online presence with a professional website and cohesive branding</p>
         </div>
 
         <div class="h-full w-72 bg-gray-500 flex flex-col p-6 gap-4 text-white">
