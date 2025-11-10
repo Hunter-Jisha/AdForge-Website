@@ -22,13 +22,13 @@
 
     <div class="md:absolute mt-auto left-16 top-32 flex flex-col text-white gap-4 drop-shadow-md" style="text-shadow: 0px 0px 20px #000a;">
         <p class="text-xl">ABOUT US</p>
-        <p class="font-fancy text-5xl md:text-8xl">Your Partner For <br> Marketing Success  </p>
+        <p class="font-fancy text-5xl md:text-8xl">Turn Transactions <br> Into Experiences  </p>
     </div>
 
     <div class="z-10 md:absolute right-16 bottom-16 w-full md:w-1/3 flex flex-col bg-white p-8 gap-4">
         <p class="font-fancy text-3xl text-blue-400">Why?</p>
         <p class="text-xl text-gray-700">There's an art to building culture. 
-            Beyond targeted ads and DRIP campaigns, we specialize in building brand loyalty through personalized connections with customers.
+            Beyond things like targeted ads and DRIP campaigns, we specialize in building brand loyalty through personalized connections with customers.
         </p>
 
         <button class="flex flex-row items-center py-4 pl-6 pr-4 text-white bg-blue-400 w-min gap-2">

@@ -46,7 +46,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Branding | Web Design | Logos | Analysis
                 </p> 
-                <p class="text-xl md:text-3xl text-gray-400"></p>    
+                <p class="text-xl md:text-3xl text-gray-400">  
                     <li>Full Static Website Redesign</li>
                     <li>Branding Consultation</li>
                     <li>Logo Redesign</li>
