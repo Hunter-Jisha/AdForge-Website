@@ -24,7 +24,7 @@
         <p class="text-xl">OUR SERVICES</p>
         <p class="font-fancy text-5xl md:text-8xl">From Hands-Free <br> To White-Glove  </p>
         <p class="text-xl md:text-2xl md:w-2/3">
-            We build brand loyalty through personalized customer experiences. Social Media growth is a natural side-effect.
+            We build brand loyalty through personalized customer experiences. <br>Growth is just a side-effect.
         </p>
 
         <button on:click={() => document.getElementById("services")?.scrollIntoView({ behavior: "smooth" })} 
