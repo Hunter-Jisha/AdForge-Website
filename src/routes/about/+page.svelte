@@ -22,7 +22,7 @@
 
     <div class="md:absolute mt-auto left-16 top-32 flex flex-col text-white gap-4 drop-shadow-md" style="text-shadow: 0px 0px 20px #000a;">
         <p class="text-xl">ABOUT US</p>
-        <p class="font-fancy text-5xl md:text-8xl">Turn Transactions <br> Into Experiences  </p>
+        <p class="font-fancy text-5xl md:text-8xl">Create <br> Culture  </p>
     </div>
 
     <div class="z-10 md:absolute right-16 bottom-16 w-full md:w-1/3 flex flex-col bg-white p-8 gap-4">
