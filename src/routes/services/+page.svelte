@@ -129,11 +129,12 @@
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">A La Carte</p>
                 <p class="text-xl md:text-3xl text-gray-400">
+                    <li>AI Consulting</li>
+                    <li>Brand Consulting</li>
                     <li>Analytics / Reports</li>
                     <li>Photo Shoots</li>
                     <li>2D / 3D Videos</li>
                     <li>Paid Ad Campaigns</li>
-                    <li>AI Consulting</li>
                 </p>
             </div>
         </div>
