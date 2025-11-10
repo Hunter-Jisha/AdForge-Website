@@ -27,13 +27,14 @@
 
     <div class="z-10 md:absolute right-16 bottom-16 w-full md:w-1/3 flex flex-col bg-white p-8 gap-4">
         <p class="font-fancy text-3xl text-blue-400">Why?</p>
-        <p class="text-xl text-gray-700">We know first-hand how important a strong online presence is to your business. 
-            From targeted ads to DRIP campaigns, we can help you build your customer base and increase conversion from existing customers
+        <p class="text-xl text-gray-700">There's an art to building culture. 
+            Beyond targeted ads and DRIP campaigns, we specialize in building brand loyalty through personalized connections with customers.
         </p>
 
         <button class="flex flex-row items-center py-4 pl-6 pr-4 text-white bg-blue-400 w-min gap-2">
-            <p class="font-bold whitespace-nowrap">Our Services</p>
+            <a href=\services class="font-bold whitespace-nowrap">Our Services
             <ArrowDiagonal class="w-6 aspect-square"/>
+            </a>
         </button>
     </div>
 </div>
@@ -93,7 +94,7 @@
                 <p class="text-xl md:text-3xl text-gray-400">
                     We utilize AI and the latest tools to make smarter decisions faster. 
                     From optimizing ad spend to analyzing customer behavior, we provide you 
-                    with a clear marketing strategy that turns data into actionable insights
+                    with a clear marketing strategy that turns data into actionable insights.
                 </p>
             </div>
         </div>
@@ -133,15 +134,15 @@
             </div>
 
             <div class="w-full flex flex-col gap-2">
-                <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
-                    <p class="whitespace-nowrap">About Us</p>
+                <a href="/" class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
+                    <p class="whitespace-nowrap">Home</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
-                </button>
-    
-                <button class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
+				</a>
+
+                <a href="/services" class="flex w-full flex-row items-center justify-between h-14 pl-6 bg-gray-500 hover:bg-blue-400 transition-all text-white font-bold">
                     <p class="whitespace-nowrap">Explore Services</p>
                     <ArrowDiagonal class="h-full aspect-square p-4"/>
-                </button>
+				</a>
             </div>
         </div>
     </div>
