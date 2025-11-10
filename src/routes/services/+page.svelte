@@ -82,7 +82,7 @@
         </div>
 
         <div id="better" class="flex flex-col row-span-1 col-span-2 items-start gap-12 bg-gray-700 text-gray-500 p-12">
-            <div class="w-20 h-20 aspect-square p-2  bg-white text-gray-700">
+            <div class="w-20 h-20 aspect-square p-2 bg-white text-gray-700">
                 <Globe/>
             </div>
             <div class="w-full flex flex-col gap-4">
