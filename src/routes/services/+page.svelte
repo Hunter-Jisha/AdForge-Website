@@ -67,7 +67,7 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white ml-auto">Bronze Package</p>
-                <p class="text-xl md:text-3xl text-gray-400 center-text">
+                <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Social Media Autopilot | Review Management | Web Hosting 
                 </p>
                 <p class="text-xl md:text-3xl text-gray-400">
@@ -108,7 +108,7 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white ml-auto">Gold Package</p>
-                <p class="text-xl md:text-3xl text-gray-400 center-text">
+                <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
                 <p class="text-xl md:text-3xl text-gray-400">
