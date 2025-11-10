@@ -46,7 +46,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Branding | Web Design | Logos | Analysis
                 </p> 
-                <p class="text-xl md:text-3xl text-gray-400">  
+                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
                     <li>Full Static Website Redesign</li>
                     <li>Branding Consultation</li>
                     <li>Logo Redesign</li>
@@ -56,8 +56,8 @@
                     <li>Marketing Strategy Report</li>
                     <li>Competitor Analysis</li>
                     <li>Customer Analysis</li>
-                    <li>Checkout Funnel & UX Analysis*</li>
-                </p>
+                    <li>Checkout Funnel &amp; UX Analysis*</li>
+                </ul>
             </div>
         </div>
 
@@ -70,14 +70,14 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Social Media Autopilot | Review Management | Web Hosting 
                 </p>
-                <p class="text-xl md:text-3xl text-gray-400">
+                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
                     <li>Regular, static social media posts</li>
                     <li>SEO Optimization</li>
                     <li>Website Hosting</li>
                     <li>Google/Yelp Review Management</li>
                     <li>Comment Management</li>
                     <li>Weekly Analytics Summaries</li>
-                </p>
+                </ul>
             </div>
         </div>
 
@@ -90,7 +90,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Email | A/B Testing | Analytics | Photography
                 </p>
-                <p class="text-xl md:text-3xl text-gray-400">
+                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
                     <li>All perks of Bronze package</li>
                     <li>Personalized Analytics</li>
                     <li>Monthly Photography Session</li>
@@ -98,7 +98,7 @@
                     <li>Website A/B Testing</li>
                     <li>Checkout Flow Analysis</li>
                     <li>Monthly Strategy Meeting</li>
-                </p>
+                </ul>
             </div>
         </div>
 
@@ -111,14 +111,14 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
-                <p class="text-xl md:text-3xl text-gray-400">
+                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
                     <li>All perks of Silver package</li>
                     <li>Photographer/Videographer On-Site Weekly</li>
                     <li>Personalized Storytelling</li>
                     <li>Customized Trending Videos</li>
                     <li>Behind-the-Scenes / Cameos / Biographies</li>
                     <li>Event Curation</li>
-                </p>
+                </ul>
             </div>
         </div>
 
@@ -128,14 +128,14 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">A La Carte</p>
-                <p class="text-xl md:text-3xl text-gray-400">
+                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
                     <li>AI Consulting</li>
                     <li>Brand Consulting</li>
                     <li>Analytics / Reports</li>
                     <li>Photo Shoots</li>
                     <li>2D / 3D Videos</li>
                     <li>Paid Ad Campaigns</li>
-                </p>
+                </ul>
             </div>
         </div>
 
