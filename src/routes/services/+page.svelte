@@ -38,7 +38,7 @@
     <div class="w-full h-full gap-8 grid grid-rows-2 grid-cols-2 text-white">
 
         <div id="onboarding" class="flex flex-col row-span-1 col-span-2 items-start gap-12 bg-gray-700 text-gray-500 p-12">
-            <div class="w-20 h-20 aspect-square p-2  bg-white text-gray-700 md:ml-auto">
+            <div class="w-20 h-20 aspect-square p-2  bg-white text-gray-700">
                 <Signal/>
             </div>
             <div class="w-full flex flex-col gap-4">
@@ -60,13 +60,13 @@
         </div>
 
         <div id="good" class="flex flex-col row-span-1 col-span-2 items-start gap-12 bg-gray-700 text-gray-500 p-12">
-            <div class="w-20 h-20 aspect-square p-4 bg-white text-gray-700">
+            <div class="w-20 h-20 aspect-square p-2 bg-white text-gray-700 md:ml-auto">
                 <Instagram/>
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">Bronze Package</p>
                 <p class="text-xl md:text-3xl text-gray-400">
-                    Lacking social media profiles will dissuade the wary online shopper. Put your social media on autopilot. 
+                    Social Media Autopilot | Review Management | Web Hosting 
                     <li>Regular, static social media posts</li>
                     <li>SEO Optimization</li>
                     <li>Website Hosting</li>
@@ -78,13 +78,13 @@
         </div>
 
         <div id="better" class="flex flex-col row-span-1 col-span-2 items-start gap-12 bg-gray-700 text-gray-500 p-12">
-            <div class="w-20 h-20 aspect-square p-2  bg-white text-gray-700 md:ml-auto">
+            <div class="w-20 h-20 aspect-square p-2  bg-white text-gray-700">
                 <Globe/>
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white ml-auto">Silver Package</p>
                 <p class="text-xl md:text-3xl text-gray-400">
-                    Improve customer conversion through email campaigns and website optimization.
+                    Email | A/B Testing | Analytics | Photography
                     <li>All perks of Bronze package</li>
                     <li>Personalized Analytics</li>
                     <li>Monthly Photography Session</li>
@@ -103,7 +103,7 @@
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white ml-auto">Gold Package</p>
                 <p class="text-xl md:text-3xl text-gray-400">
-                    White-Glove service with a member of our team partnering with you in your day-to-day operations to make you shine.
+                    Personalized Storytelling | On-Site Partners | Engagement Growth
                     <li>All perks of Silver package</li>
                     <li>Photographer/Videographer On-Site Weekly</li>
                     <li>Personalized Storytelling</li>
@@ -115,17 +115,17 @@
         </div>
 
         <div id="a-la-carte" class="flex flex-col row-span-1 col-span-2 items-start gap-12 bg-gray-700 text-gray-500 p-12">
-            <div class="w-20 h-20 aspect-square p-2  bg-white text-gray-700 md:ml-auto">
+            <div class="w-20 h-20 aspect-square p-2  bg-white text-gray-700">
                 <Robot/>
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white ml-auto">A La Carte</p>
                 <p class="text-xl md:text-3xl text-gray-400">
-                    Analytics / Reports
-                    Photo Shoots
-                    2D / 3D Videos
-                    Paid Ad Campaigns
-                    AI Consulting
+                    <li>Analytics / Reports</li>
+                    <li>Photo Shoots</li>
+                    <li>2D / 3D Videos</li>
+                    <li>Paid Ad Campaigns</li>
+                    <li>AI Consulting</li>
                 </p>
             </div>
         </div>
