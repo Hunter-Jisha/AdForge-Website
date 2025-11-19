@@ -47,7 +47,7 @@
                     Branding | Web Design | Logos | Analysis
                 </p> 
                 <p class="text-2xl md:text-3xl text-gray-300">
-                    Includes a full static website redesign, branding consultation, logo redesign, a KPI baseline report*, an analytics/pixel/tracking audit, a SWOT analysis, a marketing strategy report, competitor and customer analyses, and a checkout funnel & UX analysis*.
+                    Includes a full static website redesign, branding consultation, logo redesign, a KPI baseline report*, an analytics/pixel/tracking audit, a SWOT analysis, a marketing strategy, competitor and customer analyses, and checkout funnel / UX analysis*.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>Full Static Website Redesign</li>
@@ -74,7 +74,7 @@
                     Social Media Autopilot | Review Management | Web Hosting 
                 </p>
                 <p class="text-2xl md:text-3xl text-gray-300">
-                    Includes regular static social media posts, SEO optimization, website hosting, Google/Yelp review management, comment management, and weekly analytics summaries.
+                    Includes regular static social media posts, SEO optimization, website hosting, Google/Yelp review management, comment management, and weekly reports.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>Regular, static social media posts</li>
@@ -97,7 +97,7 @@
                     Email | A/B Testing | Analytics | Photography
                 </p>
                 <p class="text-2xl md:text-3xl text-gray-300">
-                    Includes all perks of the Bronze package, plus personalized analytics, a monthly photography session, email marketing campaigns, website A/B testing, checkout flow analysis, and a monthly strategy meeting.
+                    Includes all perks of the Bronze package, plus personalized analytics, a monthly photography session, email marketing campaigns including drip campaigns, website A/B testing, checkout flow analysis, and a monthly strategy meeting.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Bronze package</li>
@@ -121,7 +121,7 @@
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
                 <p class="text-2xl md:text-3xl text-gray-300">
-                    Includes all perks of the Silver package, plus weekly on-site photo/video coverage, personalized storytelling, customized trending videos, behind-the-scenes content with cameos and short biographies, and event curation.
+                    Includes all perks of the Silver package, plus weekly on-site photo/video coverage with your dedicated media manager, personalized storytelling, customized trending videos, behind-the-scenes content with cameos and short biographies, and event curation.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Silver package</li>
@@ -147,6 +147,8 @@
                     <li>Photo Shoots</li>
                     <li>2D / 3D Videos</li>
                     <li>Paid Ad Campaigns</li>
+                    <li>Website Redesigns</li>
+                    <li>SEO Optimization</li>
                 </ul>
             </div>
         </div>
