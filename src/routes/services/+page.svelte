@@ -68,12 +68,12 @@
             <div class="w-20 h-20 aspect-square p-2 bg-white text-gray-700 md:ml-auto">
                 <Instagram/>
             </div>
-            <div class="w-full flex flex-col gap-4">
-                <p class="font-fancy text-5xl text-white ml-auto">Bronze Package</p>
-                <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
-                    Social Media Autopilot | Review Management | Web Hosting 
+            <div class="w-full flex flex-col gap-4 items-end text-right">
+                <p class="font-fancy text-5xl text-white">Bronze Package</p>
+                <p class="text-xl md:text-3xl text-gray-400">
+                    Social Media Autopilot | Review Management | Web Hosting
                 </p>
-                <p class="text-2xl md:text-3xl text-gray-300 ml-auto">
+                <p class="text-2xl md:text-3xl text-gray-300 max-w-prose">
                     Includes regular static social media posts, SEO optimization, website hosting, Google/Yelp review management, comment management, and weekly reports.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
@@ -115,12 +115,12 @@
             <div class="w-20 h-20 aspect-square p-2  bg-white text-gray-700 md:ml-auto">
                 <Briefcase/>
             </div>
-            <div class="w-full flex flex-col gap-4">
-                <p class="font-fancy text-5xl text-white ml-auto">Gold Package</p>
-                <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
+            <div class="w-full flex flex-col gap-4 items-end text-right">
+                <p class="font-fancy text-5xl text-white">Gold Package</p>
+                <p class="text-xl md:text-3xl text-gray-400">
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
-                <p class="text-2xl md:text-3xl text-gray-300 ml-auto">
+                <p class="text-2xl md:text-3xl text-gray-300 max-w-prose">
                     Includes all perks of the Silver package, plus weekly on-site photo/video coverage with your dedicated media manager, personalized storytelling, customized trending videos, behind-the-scenes content with cameos and short biographies, and event curation.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
@@ -140,7 +140,7 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">A La Carte</p>
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8 mx-auto">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 gap-x-10 md:gap-x-16 [column-fill:_balance] space-y-2 pl-8 mx-auto">
                     <li>AI Consulting</li>
                     <li>Brand Consulting</li>
                     <li>Analytics / Reports</li>
