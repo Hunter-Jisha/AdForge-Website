@@ -46,7 +46,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Branding | Web Design | Logos | Analysis
                 </p> 
-                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>Full Static Website Redesign</li>
                     <li>Branding Consultation</li>
                     <li>Logo Redesign</li>
@@ -70,7 +70,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Social Media Autopilot | Review Management | Web Hosting 
                 </p>
-                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>Regular, static social media posts</li>
                     <li>SEO Optimization</li>
                     <li>Website Hosting</li>
@@ -90,7 +90,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Email | A/B Testing | Analytics | Photography
                 </p>
-                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Bronze package</li>
                     <li>Personalized Analytics</li>
                     <li>Monthly Photography Session</li>
@@ -111,7 +111,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
-                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Silver package</li>
                     <li>Photographer/Videographer On-Site Weekly</li>
                     <li>Personalized Storytelling</li>
@@ -128,7 +128,7 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">A La Carte</p>
-                <ul class="list-none text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 mx-auto max-w-4xl">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>AI Consulting</li>
                     <li>Brand Consulting</li>
                     <li>Analytics / Reports</li>
