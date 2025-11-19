@@ -140,7 +140,7 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">A La Carte</p>
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-gap:3rem] [column-fill:_balance] space-y-2 pl-8 mx-auto">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-gap:10rem] [column-fill:_balance] space-y-2 pl-8 mx-auto">
                     <li>AI Consulting</li>
                     <li>Brand Consulting</li>
                     <li>Analytics / Reports</li>
