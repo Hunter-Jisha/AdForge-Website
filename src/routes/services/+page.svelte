@@ -121,7 +121,7 @@
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
                 <p class="text-2xl md:text-3xl text-gray-300 max-w-prose">
-                    Includes all perks of the Silver package, plus weekly on-site photo/video coverage with your dedicated content manager, personalized storytelling, customized trending videos, behind-the-scenes content with cameos and short biographies, and event curation.
+                    Includes all perks of the Silver package, plus weekly on-site photo/video coverage with your dedicated content manager, personalized behind-the-scenes content with cameos and short biographies, and event curation.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Silver package</li>
