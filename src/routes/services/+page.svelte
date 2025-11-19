@@ -18,13 +18,13 @@
 
 <div class="w-full md:h-[55rem] relative flex flex-col flex-shrink-0 pt-24 p-8 gap-16">
 
-    <img class="w-full h-full object-cover absolute top-0 left-0" alt="background" src="stock.jpg">
+    <img class="w-full h-full object-cover absolute top-0 left-0" alt="background" src="services_background.jpg">
 
     <div class="md:absolute mt-auto left-16 top-32 flex flex-col text-white gap-4 drop-shadow-md" style="text-shadow: 0px 0px 20px #000a;">
         <p class="text-xl">OUR SERVICES</p>
         <p class="font-fancy text-5xl md:text-8xl">From Hands-Free <br> To White-Glove  </p>
         <p class="text-xl md:text-2xl md:w-2/3">
-            We build brand loyalty through personalized customer experiences. <br>Growth is just a side-effect.
+            We build brand loyalty through <br>personalized customer experiences. <br>Growth is just a side-effect.
         </p>
 
         <button on:click={() => document.getElementById("services")?.scrollIntoView({ behavior: "smooth" })} 
@@ -140,7 +140,7 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">A La Carte</p>
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8 mx-auto">
                     <li>AI Consulting</li>
                     <li>Brand Consulting</li>
                     <li>Analytics / Reports</li>
