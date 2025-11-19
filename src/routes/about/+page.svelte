@@ -28,7 +28,7 @@
     <div class="z-10 md:absolute right-16 bottom-16 w-full md:w-1/3 flex flex-col bg-white p-8 gap-4">
         <p class="font-fancy text-3xl text-blue-400">What's Different?</p>
         <p class="text-xl text-gray-700">There's an art to building culture. 
-            Beyond things like targeted ads and DRIP campaigns, we specialize in building brand loyalty through personalized connections with customers.
+            Beyond things like targeted ads and drip campaigns, we specialize in building brand loyalty through personalized connections with customers.
         </p>
 
         <button class="flex flex-row items-center py-4 pl-6 pr-4 text-white bg-blue-400 w-min gap-2">

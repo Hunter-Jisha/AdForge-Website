@@ -73,7 +73,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Social Media Autopilot | Review Management | Web Hosting 
                 </p>
-                <p class="text-2xl md:text-3xl text-gray-300">
+                <p class="text-2xl md:text-3xl text-gray-300 ml-auto">
                     Includes regular static social media posts, SEO optimization, website hosting, Google/Yelp review management, comment management, and weekly reports.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
@@ -120,7 +120,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
-                <p class="text-2xl md:text-3xl text-gray-300">
+                <p class="text-2xl md:text-3xl text-gray-300 ml-auto">
                     Includes all perks of the Silver package, plus weekly on-site photo/video coverage with your dedicated media manager, personalized storytelling, customized trending videos, behind-the-scenes content with cameos and short biographies, and event curation.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
