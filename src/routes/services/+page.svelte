@@ -97,7 +97,7 @@
                     Email | A/B Testing | Analytics | Photography
                 </p>
                 <p class="text-2xl md:text-3xl text-gray-300">
-                    Includes all perks of the Bronze package, plus personalized analytics, a monthly photography session, email marketing campaigns including drip campaigns, website A/B testing, checkout flow analysis, and a monthly strategy meeting.
+                    Includes all perks of the Bronze package, plus personalized analytics, a monthly photography session, email marketing campaigns including drip campaigns, <br>website A/B testing, checkout flow analysis, and a monthly strategy meeting.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Bronze package</li>
@@ -121,7 +121,7 @@
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
                 <p class="text-2xl md:text-3xl text-gray-300 max-w-prose">
-                    Includes all perks of the Silver package, plus weekly on-site photo/video coverage with your dedicated media manager, personalized storytelling, customized trending videos, behind-the-scenes content with cameos and short biographies, and event curation.
+                    Includes all perks of the Silver package, plus weekly on-site photo/video coverage with your dedicated content manager, personalized storytelling, customized trending videos, behind-the-scenes content with cameos and short biographies, and event curation.
                 </p>
                 <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Silver package</li>
@@ -140,7 +140,7 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">A La Carte</p>
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 gap-x-10 md:gap-x-16 [column-fill:_balance] space-y-2 pl-8 mx-auto">
+                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-gap:3rem] [column-fill:_balance] space-y-2 pl-8 mx-auto">
                     <li>AI Consulting</li>
                     <li>Brand Consulting</li>
                     <li>Analytics / Reports</li>
