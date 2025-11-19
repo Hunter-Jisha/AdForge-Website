@@ -46,7 +46,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Branding | Web Design | Logos | Analysis
                 </p> 
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
+                <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>Full Static Website Redesign</li>
                     <li>Branding Consultation</li>
                     <li>Logo Redesign</li>
@@ -57,7 +57,7 @@
                     <li>Competitor Analysis</li>
                     <li>Customer Analysis</li>
                     <li>Checkout Funnel &amp; UX Analysis*</li>
-                </ul>
+                </ul>-->
             </div>
         </div>
 
@@ -70,14 +70,14 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Social Media Autopilot | Review Management | Web Hosting 
                 </p>
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
+                <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>Regular, static social media posts</li>
                     <li>SEO Optimization</li>
                     <li>Website Hosting</li>
                     <li>Google/Yelp Review Management</li>
                     <li>Comment Management</li>
                     <li>Weekly Analytics Summaries</li>
-                </ul>
+                </ul>-->
             </div>
         </div>
 
@@ -90,7 +90,7 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text">
                     Email | A/B Testing | Analytics | Photography
                 </p>
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
+                <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Bronze package</li>
                     <li>Personalized Analytics</li>
                     <li>Monthly Photography Session</li>
@@ -98,7 +98,7 @@
                     <li>Website A/B Testing</li>
                     <li>Checkout Flow Analysis</li>
                     <li>Monthly Strategy Meeting</li>
-                </ul>
+                </ul>-->
             </div>
         </div>
 
@@ -111,14 +111,14 @@
                 <p class="text-xl md:text-3xl text-gray-400 center-text ml-auto">
                     Personalized Storytelling | On-Site Partners | Engagement Growth
                 </p>
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
+                <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>All perks of Silver package</li>
                     <li>Photographer/Videographer On-Site Weekly</li>
                     <li>Personalized Storytelling</li>
                     <li>Customized Trending Videos</li>
                     <li>Behind-the-Scenes / Cameos / Biographies</li>
                     <li>Event Curation</li>
-                </ul>
+                </ul>-->
             </div>
         </div>
 
@@ -128,14 +128,14 @@
             </div>
             <div class="w-full flex flex-col gap-4">
                 <p class="font-fancy text-5xl text-white">A La Carte</p>
-                <ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
+                <!--<ul class="list-disc text-2xl md:text-3xl text-gray-300 columns-1 md:columns-2 [column-fill:_balance] space-y-2 pl-8">
                     <li>AI Consulting</li>
                     <li>Brand Consulting</li>
                     <li>Analytics / Reports</li>
                     <li>Photo Shoots</li>
                     <li>2D / 3D Videos</li>
                     <li>Paid Ad Campaigns</li>
-                </ul>
+                </ul>-->
             </div>
         </div>
 
